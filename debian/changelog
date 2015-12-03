@@ -1,0 +1,6 @@
+sas2ircu (20-0~precise0+exo1) precise; urgency=medium
+
+  * First package.
+
+ -- Vincent Bernat <bernat@debian.org>  Thu, 03 Dec 2015 16:04:36 +0100
+
