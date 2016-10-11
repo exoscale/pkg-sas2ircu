@@ -1,3 +1,9 @@
+sas2ircu (20-0~xenial0+exo1) precise; urgency=medium
+
+  * Forward-port to Xenial.
+
+ -- Loic Lambiel <llambiel@own3d.ch>  Tue, 11 Oct 2016 10:36:23 +0200
+
 sas2ircu (20-0~precise0+exo1) precise; urgency=medium
 
   * First package.
