@@ -1,3 +1,9 @@
+sas2ircu (20-0~bionic0+exo1) precise; urgency=medium
+
+  * Forward-port to Bionic.
+
+ -- Exoscale <ops@exoscale.ch>  Mon, 25 Jun 2018 08:36:23 +0200
+
 sas2ircu (20-0~xenial0+exo1) precise; urgency=medium
 
   * Forward-port to Xenial.
