@@ -1,3 +1,9 @@
+sas2ircu (20-0~focal0+exo1) UNRELEASED; urgency=medium
+
+  * Build for Ubuntu Focal.
+
+ -- Alexandros Afentoulis <alexandros.afentoulis@exoscale.ch>  Mon, 12 Oct 2020 14:16:26 +0300
+
 sas2ircu (20-0~bionic0+exo1) precise; urgency=medium
 
   * Forward-port to Bionic.
